@@ -1,0 +1,18 @@
+
+#environment variables setting
+export GLM_INCLUDE_DIR=$HOME/Documents/CSCE441/glm
+export GLEW_DIR=$HOME/Documents/CSCE441/glew
+export GLFW_DIR=$HOME/Documents/CSCE441/glfw
+
+source ~/.profile
+
+#cmake commands
+
+#set up directory
+mkdir build
+cd build 
+
+cmake -Wno-dev /$HOME/Documents/CSCE441/assignments/Program/
+make -j4
+./Program
+

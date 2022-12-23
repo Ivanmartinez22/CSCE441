@@ -1,0 +1,1000 @@
+ 1004  cd
+ 1005  ls
+ 1006  cd Documents/
+ 1007  ls
+ 1008  cd CSCE315/
+ 1009  git clone https://github.tamu.edu/Ivanattexas/CSCE315_Project2.git
+ 1010  javac *.java
+ 1011  cd CSCE315_Project2
+ 1012  javac *.java
+ 1013  git add items.java 
+ 1014  git commit -m "changed names of ingredients for random generator program"
+ 1015  git push
+ 1016  javac *.java
+ 1017  git pull
+ 1018  git config pull.rebase true
+ 1019  git pull
+ 1020  git stash
+ 1021  git pull
+ 1022  javac *.java
+ 1023  git clone https://github.tamu.edu/Ivanattexas/CSCE315_Project2.git
+ 1024  javac *.java
+ 1025  cd CSCE315_Project2
+ 1026  javac *.java
+ 1027  git pull
+ 1028  javac *.java
+ 1029  java -cp ".:postgresql-42.2.8.jar" jdbcpostgreSQL
+ 1030  git add items.java
+ 1031  cd Items_Data/
+ 1032  git add items.java 
+ 1033  git commit -m "changed names of ingredients for random generator program"
+ 1034  git push
+ 1035  javac items.java 
+ 1036  java items
+ 1037  java Main
+ 1038  java Item
+ 1039  java Items_Data/Item
+ 1040  java Items_Data/Main
+ 1041  java Items_Data/Item
+ 1042  cd -
+ 1043  java Items_Data/Main
+ 1044  ls
+ 1045  cd Items_Data/
+ 1046  ls
+ 1047  javac items.java 
+ 1048  cd - 
+ 1049  java Items_Data/Main
+ 1050  cd Items_Data/
+ 1051  javac items.java 
+ 1052  cd Items_Data/
+ 1053  cd - 
+ 1054  java Items_Data/Item
+ 1055  java Items_Data/Main
+ 1056  cd -
+ 1057  cd .
+ 1058  cd
+ 1059  cd Documents/
+ 1060  ls
+ 1061  cd CSCE315/
+ 1062  ls
+ 1063  cd Temp/
+ 1064  ls
+ 1065  javac items.java 
+ 1066  java Main
+ 1067  cd 
+ 1068  cd Documents/
+ 1069  cd CSCE315/
+ 1070  ls
+ 1071  cd CSCE315_Project2
+ 1072  ls
+ 1073  javac *.java
+ 1074  java -cp ".:postgresql-42.2.8.jar" jdbcpostgreSQL
+ 1075  java -cp ".;postgresql-42.2.8.jar" jdbcpostgreSQL
+ 1076  java -cp ".:postgresql-42.2.8.jar" jdbcpostgreSQL
+ 1077  javac *.java
+ 1078  java -cp ".:postgresql-42.2.8.jar" jdbcpostgreSQL
+ 1079  javac excessReportGUI.java 
+ 1080  java excessReportGUI 
+ 1081  javac excessReportGUI.java 
+ 1082  java excessReportGUI 
+ 1083  git add excessReportGUI.java 
+ 1084  git commit -m "GUI for excess report, virtually identical to restock menu currently, has its own main for local testing" 
+ 1085  git push
+ 1086  git add SalesHistoryGenerator.java 
+ 1087  git commit -m "SalesHistoryGenerator now has function to directly push order to database "
+ 1088  git push
+ 1089  git pull
+ 1090  git push
+ 1091  javac *.java
+ 1092  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1093  javac SalesHistoryGenerator.java 
+ 1094  java Main
+ 1095  javac SalesHistoryGenerator.java 
+ 1096  java Main
+ 1097  java Main Server
+ 1098  java Server
+ 1099  java Main Server
+ 1100  javac *.java
+ 1101  java -cp ".:postgresql-42.2.8.jar" Main
+ 1102  javac *.java
+ 1103  java -cp ".:postgresql-42.2.8.jar" Main
+ 1104  javac *.java
+ 1105  java -cp ".:postgresql-42.2.8.jar" Main
+ 1106  git add excessReportGUI.java SalesHistoryGenerator.java 
+ 1107  git commit -m "updates to sales history and excess GUI "
+ 1108  git push
+ 1109  git pull
+ 1110  git push
+ 1111  git pull
+ 1112  git push
+ 1113  javac *.java
+ 1114  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1115  java -cp ".:postgresql-42.2.8.jar" Main
+ 1116  java -cp ".:postgresql-42.2.8.jar" RevsGUI
+ 1117  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1118  javac *.java
+ 1119  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1120  git pull
+ 1121  git stash
+ 1122  git stash apply
+ 1123  git add .
+ 1124  git commit -m "excess report update"
+ 1125  git push
+ 1126  git pull
+ 1127  git push
+ 1128  git revert 49f5822
+ 1129  git revert 49f5822 -m "accidental merge"
+ 1130  git revert 49f5822
+ 1131  git revert --no-commit 3675408..HEAD
+ 1132  javac *.java
+ 1133  javac SalesHistoryGenerator.java 
+ 1134  java Main
+ 1135  git add .
+ 1136  git commit -m "reverting to Bihn's latest push"
+ 1137  git push
+ 1138  cd CSCE315_Project2/
+ 1139  git commit -m "reverting to Bihn's latest push"
+ 1140  git push
+ 1141  git pull
+ 1142  git add excessReportGUI.java 
+ 1143  git commit -m "updating excess report"
+ 1144  git push
+ 1145  javac *.java
+ 1146  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1147  javac *.java
+ 1148  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1149  javac *.java
+ 1150  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1151  javac *.java
+ 1152  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1153  javac *.java
+ 1154  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1155  javac *.java
+ 1156  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1157  javac *.java
+ 1158  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1159  javac *.java
+ 1160  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1161  javac *.java
+ 1162  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1163  javac *.java
+ 1164  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1165  javac *.java
+ 1166  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1167  javac *.java
+ 1168  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1169  javac *.java
+ 1170  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1171  javac *.java
+ 1172  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1173  javac *.java
+ 1174  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1175  javac *.java
+ 1176  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1177  javac *.java
+ 1178  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1179  javac *.java
+ 1180  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1181  javac *.java
+ 1182  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1183  javac *.java
+ 1184  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1185  javac *.java
+ 1186  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1187  javac *.java
+ 1188  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1189  javac *.java
+ 1190  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1191  javac *.java
+ 1192  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1193  javac *.java
+ 1194  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1195  javac *.java
+ 1196  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1197  javac *.java
+ 1198  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1199  javac *.java
+ 1200  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1201  javac *.java
+ 1202  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1203  javac *.java
+ 1204  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1205  javac *.java
+ 1206  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1207  javac *.java
+ 1208  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1209  javac *.java
+ 1210  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1211  javac *.java
+ 1212  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1213  javac *.java
+ 1214  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1215  javac *.java
+ 1216  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1217  javac *.java
+ 1218  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1219  javac *.java
+ 1220  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1221  javac *.java
+ 1222  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1223  javac *.java
+ 1224  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1225  javac *.java
+ 1226  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1227  javac *.java
+ 1228  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1229  javac *.java
+ 1230  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1231  javac *.java
+ 1232  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1233  javac *.java
+ 1234  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1235  javac *.java
+ 1236  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1237  javac *.java
+ 1238  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1239  javac *.java
+ 1240  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1241  javac *.java
+ 1242  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1243  git add excessReportGUI.java trendsGUI.java 
+ 1244  git commit -m "Completed excess report GUI"
+ 1245  git push
+ 1246  git pull
+ 1247  javac *.java
+ 1248  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1249  javac *.java
+ 1250  java -cp ".:postgresql-42.2.8.jar" revsGUI
+ 1251  git add . 
+ 1252  git commit -m "Add documentation to files, documentation needed for Server.java, serverGUI.java, trendsGUI.java, what_sales_togther_java"
+ 1253  git push
+ 1254  git add . 
+ 1255  git commit -m "Add documentation to files"
+ 1256  git push
+ 1257  make -j4
+ 1258  ./Assignment3 
+ 1259  make -j4
+ 1260  ./Assignment3 
+ 1261  make -j4
+ 1262  ./Assignment3 
+ 1263  make -j4
+ 1264  ./Assignment3 
+ 1265  make -j4
+ 1266  ./Assignment3 
+ 1267  make -j4
+ 1268  ./Assignment3 
+ 1269  make -j4
+ 1270  ./Assignment3 
+ 1271  make -j4
+ 1272  ./Assignment3 
+ 1273  make -j4
+ 1274  ./Assignment3 
+ 1275  make -j4
+ 1276  ./Assignment3 
+ 1277  make -j4
+ 1278  ./Assignment3 
+ 1279  make -j4
+ 1280  ./Assignment3 
+ 1281  make -j4
+ 1282  ./Assignment3 
+ 1283  make -j4
+ 1284  ./Assignment3 
+ 1285  make -j4
+ 1286  ./Assignment3 
+ 1287  make -j4
+ 1288  ./Assignment3 
+ 1289  make -j4
+ 1290  ./Assignment3 
+ 1291  make -j4
+ 1292  ./Assignment3 
+ 1293  make -j4
+ 1294  ./Assignment3 
+ 1295  make -j4
+ 1296  ./Assignment3 
+ 1297  make -j4
+ 1298  ./Assignment3 
+ 1299  make -j4
+ 1300  ./Assignment3 
+ 1301  make -j4
+ 1302  ./Assignment3 
+ 1303  make -j4
+ 1304  ./Assignment3 
+ 1305  make -j4
+ 1306  ./Assignment3 
+ 1307  make -j4
+ 1308  ./Assignment3 
+ 1309  make -j4
+ 1310  ./Assignment3 
+ 1311  make -j4
+ 1312  ./Assignment3 
+ 1313  make -j4
+ 1314  ./Assignment3 
+ 1315  make -j4
+ 1316  ./Assignment3 
+ 1317  make -j4
+ 1318  ./Assignment3 
+ 1319  make -j4
+ 1320  ./Assignment3 
+ 1321  make -j4
+ 1322  ./Assignment3 
+ 1323  make -j4
+ 1324  ./Assignment3 
+ 1325  make -j4
+ 1326  ./Assignment3 
+ 1327  make -j4
+ 1328  ./Assignment3 
+ 1329  make -j4
+ 1330  ./Assignment3 
+ 1331  make -j4
+ 1332  ./Assignment3 
+ 1333  make -j4
+ 1334  ./Assignment3 
+ 1335  make -j4
+ 1336  ./Assignment3 
+ 1337  make -j4
+ 1338  ./Assignment3 
+ 1339  make -j4
+ 1340  ./Assignment3 
+ 1341  make -j4
+ 1342  ./Assignment3 
+ 1343  make -j4
+ 1344  ./Assignment3 
+ 1345  make -j4
+ 1346  ./Assignment3 
+ 1347  make -j4
+ 1348  ./Assignment3 
+ 1349  make -j4
+ 1350  ./Assignment3 
+ 1351  make -j4
+ 1352  ./Assignment3 
+ 1353  make -j4
+ 1354  ./Assignment3 
+ 1355  make -j4
+ 1356  ./Assignment3 
+ 1357  make -j4
+ 1358  ./Assignment3 
+ 1359  make -j4
+ 1360  ./Assignment3 
+ 1361  make -j4
+ 1362  ./Assignment3 
+ 1363  make -j4
+ 1364  ./Assignment3 
+ 1365  make -j4
+ 1366  ./Assignment3 
+ 1367  make -j4
+ 1368  ./Assignment3 
+ 1369  make -j4
+ 1370  ./Assignment3 
+ 1371  make -j4
+ 1372  ./Assignment3 
+ 1373  make -j4
+ 1374  ./Assignment3 
+ 1375  make -j4
+ 1376  ./Assignment3 
+ 1377  make -j4
+ 1378  ./Assignment3 
+ 1379  make -j4
+ 1380  ./Assignment3 
+ 1381  make -j4
+ 1382  ./Assignment3 
+ 1383  make -j4
+ 1384  ./Assignment3 
+ 1385  make -j4
+ 1386  ./Assignment3 
+ 1387  make -j4
+ 1388  ./Assignment3 
+ 1389  make -j4
+ 1390  ./Assignment3 
+ 1391  make -j4
+ 1392  ./Assignment3 
+ 1393  make -j4
+ 1394  ./Assignment3 
+ 1395  make -j4
+ 1396  ./Assignment3 
+ 1397  make -j4
+ 1398  ./Assignment3 
+ 1399  make -j4
+ 1400  ./Assignment3 
+ 1401  make -j4
+ 1402  ./Assignment3 
+ 1403  make -j4
+ 1404  ./Assignment3 
+ 1405  make -j4
+ 1406  ./Assignment3 
+ 1407  make -j4
+ 1408  ./Assignment3 
+ 1409  make -j4
+ 1410  ./Assignment3 
+ 1411  make -j4
+ 1412  ./Assignment3 
+ 1413  make -j4
+ 1414  ./Assignment3 
+ 1415  make -j4
+ 1416  ./Assignment3 
+ 1417  make -j4
+ 1418  ./Assignment3 
+ 1419  make -j4
+ 1420  ./Assignment3 
+ 1421  make -j4
+ 1422  ./Assignment3 
+ 1423  make -j4
+ 1424  ./Assignment3 
+ 1425  make -j4
+ 1426  ./Assignment3 
+ 1427  make -j4
+ 1428  ./Assignment3 
+ 1429  make -j4
+ 1430  ./Assignment3 
+ 1431  make -j4
+ 1432  ./Assignment3 
+ 1433  make -j4
+ 1434  ./Assignment3 
+ 1435  make -j4
+ 1436  ./Assignment3 
+ 1437  make -j4
+ 1438  ./Assignment3 
+ 1439  make -j4
+ 1440  ./Assignment3 
+ 1441  make -j4
+ 1442  ./Assignment3 
+ 1443  make -j4
+ 1444  ./Assignment3 
+ 1445  make -j4
+ 1446  ./Assignment3 
+ 1447  make -j4
+ 1448  ./Assignment3 
+ 1449  make -j4
+ 1450  ./Assignment3 
+ 1451  make -j4
+ 1452  ./Assignment3 
+ 1453  make -j4
+ 1454  ./Assignment3 
+ 1455  make -j4
+ 1456  ./Assignment3 
+ 1457  make -j4
+ 1458  ./Assignment3 
+ 1459  make -j4
+ 1460  ./Assignment3 
+ 1461  make -j4
+ 1462  ./Assignment3 
+ 1463  make -j4
+ 1464  ./Assignment3 
+ 1465  make -j4
+ 1466  ./Assignment3 
+ 1467  make -j4
+ 1468  ./Assignment3 
+ 1469  make -j4
+ 1470  ./Assignment3 
+ 1471  make -j4
+ 1472  ./Assignment3 
+ 1473  make -j4
+ 1474  ./Assignment3 
+ 1475  make -j4
+ 1476  ./Assignment3 
+ 1477  make -j4
+ 1478  ./Assignment3 
+ 1479  make -j4
+ 1480  ./Assignment3 
+ 1481  make -j4
+ 1482  ./Assignment3 
+ 1483  make -j4
+ 1484  ./Assignment3 
+ 1485  make -j4
+ 1486  ./Assignment3 
+ 1487  make -j4
+ 1488  ./Assignment3 
+ 1489  make -j4
+ 1490  ./Assignment3 
+ 1491  make -j4
+ 1492  ./Assignment3 
+ 1493  make -j4
+ 1494  ./Assignment3 
+ 1495  make -j4
+ 1496  ./Assignment3 
+ 1497  make -j4
+ 1498  ./Assignment3 
+ 1499  make -j4
+ 1500  ./Assignment3 
+ 1501  make -j4
+ 1502  ./Assignment3 
+ 1503  make -j4
+ 1504  ./Assignment3 
+ 1505  make -j4
+ 1506  ./Assignment3 
+ 1507  make -j4
+ 1508  ./Assignment3 
+ 1509  make -j4
+ 1510  ./Assignment3 
+ 1511  make -j4
+ 1512  ./Assignment3 
+ 1513  make -j4
+ 1514  ./Assignment3 
+ 1515  make -j4
+ 1516  ./Assignment3 
+ 1517  make -j4
+ 1518  ./Assignment3 
+ 1519  make -j4
+ 1520  ./Assignment3 
+ 1521  make -j4
+ 1522  ./Assignment3 
+ 1523  make -j4
+ 1524  ./Assignment3 
+ 1525  make -j4
+ 1526  ./Assignment3 
+ 1527  make -j4
+ 1528  ./Assignment3 
+ 1529  make -j4
+ 1530  ./Assignment3 
+ 1531  make -j4
+ 1532  ./Assignment3 
+ 1533  make -j4
+ 1534  ./Assignment3 
+ 1535  make -j4
+ 1536  ./Assignment3 
+ 1537  make -j4
+ 1538  ./Assignment3 
+ 1539  make -j4
+ 1540  ./Assignment3 
+ 1541  make -j4
+ 1542  ./Assignment3 
+ 1543  make -j4
+ 1544  ./Assignment3 
+ 1545  make -j4
+ 1546  ./Assignment3 
+ 1547  make -j4
+ 1548  ./Assignment3 
+ 1549  make -j4
+ 1550  ./Assignment3 
+ 1551  make -j4
+ 1552  ./Assignment3 
+ 1553  make -j4
+ 1554  ./Assignment3 
+ 1555  make -j4
+ 1556  ./Assignment3 
+ 1557  make -j4\
+ 1558  ./Assignment3 
+ 1559  make -j4\
+ 1560  ./Assignment3 
+ 1561  make -j4
+ 1562  ./Assignment3 
+ 1563  make -j4
+ 1564  ./Assignment3 
+ 1565  make -j4
+ 1566  ./Assignment3 
+ 1567  make -j4
+ 1568  ./Assignment3 
+ 1569  make -j4
+ 1570  ./Assignment3 
+ 1571  make -j4
+ 1572  ./Assignment3 
+ 1573  make -j4
+ 1574  ./Assignment3 
+ 1575  make -j4
+ 1576  ./Assignment3 
+ 1577  make -j4
+ 1578  ./Assignment3 
+ 1579  make -j4
+ 1580  ./Assignment3 
+ 1581  make -j4
+ 1582  ./Assignment3 
+ 1583  make -j4
+ 1584  ./Assignment3 
+ 1585  make -j4
+ 1586  ./Assignment3 
+ 1587  make -j4
+ 1588  ./Assignment3 
+ 1589  make -j4
+ 1590  ./Assignment3 
+ 1591  make -j4
+ 1592  ./Assignment3 
+ 1593  make -j4
+ 1594  ./Assignment3 
+ 1595  make -j4
+ 1596  ./Assignment3 
+ 1597  make -j4
+ 1598  ./Assignment3 
+ 1599  make -j4
+ 1600  ./Assignment3 
+ 1601  make -j4
+ 1602  ./Assignment3 
+ 1603  make -j4
+ 1604  ./Assignment3 
+ 1605  make -j4
+ 1606  ./Assignment3 
+ 1607  make -j4
+ 1608  ./Assignment3 
+ 1609  make -j4
+ 1610  ./Assignment3 
+ 1611  make -j4
+ 1612  ./Assignment3 
+ 1613  make -j4
+ 1614  ./Assignment3 
+ 1615  make -j4
+ 1616  ./Assignment3 
+ 1617  make -j4
+ 1618  ./Assignment3 
+ 1619  make -j4
+ 1620  ./Assignment3 
+ 1621  make -j4
+ 1622  ./Assignment3 
+ 1623  make -j4
+ 1624  ./Assignment3 
+ 1625  make -j4
+ 1626  ./Assignment3 
+ 1627  make -j4
+ 1628  ./Assignment3 
+ 1629  make -j4
+ 1630  ./Assignment3 
+ 1631  make -j4
+ 1632  ./Assignment3 
+ 1633  make -j4
+ 1634  ./Assignment3 
+ 1635  make -j4
+ 1636  ./Assignment3 
+ 1637  make -j4
+ 1638  ./Assignment3 
+ 1639  make -j4
+ 1640  ./Assignment3 
+ 1641  make -j4
+ 1642  ./Assignment3 
+ 1643  make -j4
+ 1644  ./Assignment3 
+ 1645  make -j4
+ 1646  ./Assignment3 
+ 1647  make -j4
+ 1648  ./Assignment3 
+ 1649  make -j4
+ 1650  ./Assignment3 
+ 1651  make -j4
+ 1652  ./Assignment3 
+ 1653  make -j4
+ 1654  ./Assignment3 
+ 1655  make -j4
+ 1656  ./Assignment3 
+ 1657  make -j4
+ 1658  ./Assignment3 
+ 1659  make -j4
+ 1660  ./Assignment3 
+ 1661  make -j4
+ 1662  ./Assignment3 
+ 1663  make -j4
+ 1664  ./Assignment3 
+ 1665  make -j4
+ 1666  ./Assignment3 
+ 1667  make -j4
+ 1668  ./Assignment3 
+ 1669  make -j4
+ 1670  ./Assignment3 
+ 1671  make -j4
+ 1672  ./Assignment3 
+ 1673  make -j4
+ 1674  ./Assignment3 
+ 1675  make -j4
+ 1676  ./Assignment3 
+ 1677  make -j4
+ 1678  ./Assignment3 
+ 1679  make -j4
+ 1680  ./Assignment3 
+ 1681  make -j4
+ 1682  ./Assignment3 
+ 1683  make -j4
+ 1684  ./Assignment3 
+ 1685  make -j4
+ 1686  ./Assignment3 
+ 1687  make -j4
+ 1688  ./Assignment3 
+ 1689  make -j4
+ 1690  ./Assignment3 
+ 1691  make -j4
+ 1692  ./Assignment3 
+ 1693  make -j4
+ 1694  ./Assignment3 
+ 1695  make -j4
+ 1696  ./Assignment3 
+ 1697  make -j4
+ 1698  ./Assignment3 
+ 1699  make -j4
+ 1700  ./Assignment3 
+ 1701  make -j4
+ 1702  ./Assignment3 
+ 1703  make -j4
+ 1704  ./Assignment3 
+ 1705  make -j4
+ 1706  ./Assignment3 
+ 1707  make -j4
+ 1708  ./Assignment3 
+ 1709  make -j4
+ 1710  ./Assignment3 
+ 1711  make -j4
+ 1712  ./Assignment3 
+ 1713  make -j4
+ 1714  ./Assignment3 
+ 1715  make -j4
+ 1716  ./Assignment3 
+ 1717  make -j4
+ 1718  ./Assignment3 
+ 1719  make -j4
+ 1720  ./Assignment3 
+ 1721  make -j4
+ 1722  ./Assignment3 
+ 1723  make -j4
+ 1724  ./Assignment3 
+ 1725  make -j4
+ 1726  ./Assignment3 
+ 1727  make -j4
+ 1728  ./Assignment3 
+ 1729  make -j4
+ 1730  ./Assignment3 
+ 1731  make -j4
+ 1732  ./Assignment3 
+ 1733  make -j4
+ 1734  ./Assignment3 
+ 1735  make -j4
+ 1736  ./Assignment3 
+ 1737  make -j4
+ 1738  ./Assignment3 
+ 1739  make -j4
+ 1740  ./Assignment3 
+ 1741  make -j4
+ 1742  ./Assignment3 
+ 1743  make -j4
+ 1744  ./Assignment3 
+ 1745  make -j4
+ 1746  ./Assignment3 
+ 1747  make -j4
+ 1748  ./Assignment3 
+ 1749  make -j4
+ 1750  ./Assignment3 
+ 1751  make -j4
+ 1752  ./Assignment3 
+ 1753  make -j4
+ 1754  ./Assignment3 
+ 1755  make -j4
+ 1756  ./Assignment3 
+ 1757  make -j4
+ 1758  ./Assignment3 
+ 1759  make -j4
+ 1760  ./Assignment3 
+ 1761  make -j4
+ 1762  ./Assignment3 
+ 1763  make -j4
+ 1764  ./Assignment3 
+ 1765  make -j4
+ 1766  ./Assignment3 
+ 1767  make -j4
+ 1768  ./Assignment3 
+ 1769  make -j4
+ 1770  ./Assignment3 
+ 1771  make -j4
+ 1772  ./Assignment3 
+ 1773  git clone https://github.tamu.edu/bnguyen/CSCE315_Project3.git
+ 1774  pkg install node
+ 1775  curl -fsSL https://deb.nodesource.com/setup_19.x | bash - &&apt-get install -y nodejs
+ 1776  cd CSCE315_Project3/
+ 1777  ls
+ 1778  cd backend/
+ 1779  ls
+ 1780  npm install
+ 1781  cd -
+ 1782  cd frontend/
+ 1783  npm install
+ 1784  cd revs-app/
+ 1785  ls
+ 1786  npm start
+ 1787  cd frontend/
+ 1788  cd -
+ 1789  npm install
+ 1790  cd -
+ 1791  cd .
+ 1792  cd -
+ 1793  cd ..
+ 1794  cd backend/
+ 1795  ls
+ 1796  npm start
+ 1797  npm install
+ 1798  npm start
+ 1799  npm install
+ 1800  npm start
+ 1801  cd ..
+ 1802  cd frontend/
+ 1803  npm install
+ 1804  npm start
+ 1805  sudo curl -fsSL https://deb.nodesource.com/setup_19.x | bash - &&apt-get install -y nodejs
+ 1806  curl -fsSL https://deb.nodesource.com/setup_current.x | bash - &&apt-get install -y nodejs
+ 1807  sudo curl -fsSL https://deb.nodesource.com/setup_current.x | bash - &&apt-get install -y nodejs
+ 1808  sudo apt install nodejs
+ 1809  node –version
+ 1810  node -v
+ 1811  sudo apt install npm
+ 1812  sudo apt-get update
+ 1813  sudo apt-get upgrade
+ 1814  sudo apt-get install python-software-properties
+ 1815  curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash –
+ 1816  sudo apt-get install python-software-properties
+ 1817  curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash –
+ 1818  sudo apt-get install nodejs
+ 1819  sudo apt install npm
+ 1820  npm -v
+ 1821  node -v
+ 1822  fuser 8080/tcp
+ 1823  fuser 3000/tcp
+ 1824  fuser -k 3000/tcp
+ 1825  fuser -k 8080/tcp
+ 1826  fuser -k 3000/tcp
+ 1827  npx create-react-app ./
+ 1828  sudo get-apt upgrade
+ 1829  sudo get upgrade
+ 1830  sudo upgrade
+ 1831  node --version
+ 1832  nvm ls-remote
+ 1833  nvm ls
+ 1834  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+ 1835  nvm use 14
+ 1836  env VERSION=`python tools/getnodeversion.py` make install DESTDIR=`nvm_version_path v$VERSION` PREFIX=""
+ 1837  sudo apt install curl
+ 1838  curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+ 1839  sudo apt-get install -y nodejs
+ 1840  Node --version
+ 1841  Node --v
+ 1842  Node -v
+ 1843  node -v
+ 1844  sudo apt update
+ 1845  sudo apt install nodejs
+ 1846  node -v
+ 1847  sudo apt install npm
+ 1848  sudo apt install curl
+ 1849  curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+ 1850  sudo apt install nodejs
+ 1851  node -v
+ 1852  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+ 1853  source ~/.bashrc
+ 1854  nvm list-remote
+ 1855  nvm install v14.10.0
+ 1856  nvm install v18.12.0
+ 1857  node -v
+ 1858  npx create-react-app ./
+ 1859  npm install @material-ui/core @material-ui/icons @chec.commerce.js
+ 1860  npm install @material-ui/core @material-ui/icons @chec/commerce.js
+ 1861  npm install @material-ui/core @material-ui/icons @chec/commerce.js @stripe/stripe-js react-router-dom react-hook-form
+ 1862  npm install--legacy-peer-deps @material-ui/core @material-ui/icons @chec/commerce.js @stripe/stripe-js react-router-dom react-hook-form
+ 1863  npm install --legacy-peer-deps @material-ui/core @material-ui/icons @chec/commerce.js @stripe/stripe-js react-router-dom react-hook-form
+ 1864  npm audit fix --force
+ 1865  npm audit fix
+ 1866  npm audit fix --force
+ 1867  nvm install v14.10.0
+ 1868  nvm list-remote
+ 1869  node -v
+ 1870  npm install--legacy-peer-deps @material-ui/core @material-ui/icons @chec/commerce.js @stripe/stripe-js react-router-dom react-hook-form
+ 1871  npm install @material-ui/core @material-ui/icons @chec/commerce.js @stripe/stripe-js react-router-dom react-hook-form
+ 1872  npx create-react-app ./
+ 1873  npm install @material-ui/core @material-ui/icons @chec/commerce.js @stripe/stripe-js react-router-dom react-hook-form
+ 1874  nvm list-remote
+ 1875  nvm install v16.13.0
+ 1876  npx create-react-app ./
+ 1877  npm install @material-ui/core @material-ui/icons @chec/commerce.js @stripe/stripe-js react-router-dom react-hook-form
+ 1878  nvm install v14.10.0
+ 1879  npx create-react-app ./
+ 1880  npm audit fix
+ 1881  nvm install v16.13.0
+ 1882  npx create-react-app ./
+ 1883  nvm install v16.13.0
+ 1884  npx create-react-app ./
+ 1885  nvm install v18.12.0
+ 1886  npx create-react-app ./
+ 1887  nvm install v14.10.0
+ 1888  nvm install v16.13.0
+ 1889  npx create-react-app ./
+ 1890  npm install @material-ui/core @material-ui/icons @chec/commerce.js @stripe/stripe-js react-router-dom react-hook-form
+ 1891  nvm install v16.8.0
+ 1892  npx create-react-app ./
+ 1893  npm install @material-ui/core @material-ui/icons @chec/commerce.js @stripe/stripe-js react-router-dom react-hook-form
+ 1894  nvm install v14.10.0
+ 1895  npx create-react-app ./
+ 1896  npm install @material-ui/core @material-ui/icons @chec/commerce.js @stripe/stripe-js react-router-dom react-hook-form
+ 1897  npm audit fix 
+ 1898  npm start
+ 1899  git pull
+ 1900  npm install
+ 1901  npm start
+ 1902  cd ..
+ 1903  cd backend/
+ 1904  npm install
+ 1905  npm start
+ 1906  fuser -k 3000/tcp
+ 1907  npx create-react-app HelloWorld
+ 1908  npx create-react-app customerpage
+ 1909  nvm list-remote
+ 1910  nvm install v18.12.0
+ 1911  npx create-react-app customerpage
+ 1912  npm audit fix
+ 1913  npm i --package-lock-only
+ 1914  npm audit fix
+ 1915  npm start
+ 1916  cd customerpage/
+ 1917  npm start
+ 1918  fuser -k 3000/tcp
+ 1919  fuser -k 3001/tcp
+ 1920  npm install
+ 1921  npm start
+ 1922  npm install
+ 1923  npm start
+ 1924  nvm install v16.8.0
+ 1925  npm start
+ 1926  fuser -k 3000/tcp
+ 1927  npm install react-router-dom
+ 1928  npm install json-server json-server-auth
+ 1929  npm install axios
+ 1930  npm install jwt-decode
+ 1931  npm install bulma
+ 1932  cd src
+ 1933  touch Context.js withContext.js
+ 1934  mkdir components
+ 1935  cd components
+ 1936  touch AddProduct.js Cart.js Login.js ProductList.js
+ 1937  cd src
+ 1938  cd ..
+ 1939  npm start
+ 1940  npm -i --save react-router-dom@6
+ 1941  nvm install v12.18.0
+ 1942  npm install
+ 1943  npm start
+ 1944  npm i -g create-react-app@1.5.2
+ 1945  sudo npm i -g create-react-app@1.5.2
+ 1946  sudo npm i -g create-react-app@1.5.2
+ 1947  create-react-app
+ 1948  create-react-app REACT
+ 1949  create-react-app react
+ 1950  create-react-app customerpage
+ 1951  npm i -g create-react-app
+ 1952  create-react-app customerpage
+ 1953  create-react-app react-app
+ 1954  npm start
+ 1955  cd react-app/
+ 1956  npm start
+ 1957  fuser -k 3000/tcp
+ 1958  cd ..
+ 1959  npm i bootstrap@4.1.1
+ 1960  npm start
+ 1961  create-react-app counter-app
+ 1962  npm i bootstrap@4.1.1
+ 1963  npm start
+ 1964  fuser -k 3000/tcp
+ 1965  cd .. 
+ 1966  nvm install v8.11.3
+ 1967  npm i -g create-react-app
+ 1968  npm i -g create-react-app@1.5.2
+ 1969  create-react-app counter-app
+ 1970  fuser -k 3000/tcp
+ 1971  nvm list-remote
+ 1972  nvm install v18.12.0
+ 1973  cd CSCE315_Project3/
+ 1974  git pull
+ 1975  git stash
+ 1976  git pull
+ 1977  npm start
+ 1978  npm install
+ 1979  npm start
+ 1980  npm install
+ 1981  npm start
+ 1982  cd ..
+ 1983  git config --global user.name "ivanattexas"
+ 1984  git clone https://github.tamu.edu/bnguyen/CSCE315_Project3.git
+ 1985  cd CSCE315_Project3/
+ 1986  cd frontend/
+ 1987  cd revs-app/
+ 1988  npm start
+ 1989  npm install
+ 1990  mkdr build
+ 1991  mkdir build
+ 1992  cd build 
+ 1993  make -j4
+ 1994  history
+ 1995  cmake -Wno-dev /$HOME/Documents/CSCE441/assignments/Homework3/
+ 1996  cmake -Wno-dev /$HOME/Documents/CSCE441/assignments/Homework3/src/
+ 1997  cmake -Wno-dev /$HOME/Documents/CSCE441/assignments/Homework3/
+ 1998  cd ..
+ 1999  cd build 
+ 2000  cmake -Wno-dev /$HOME/Documents/CSCE441/assignments/Homework3/src/
+ 2001  cmake -Wno-dev /Documents/CSCE441/assignments/Homework3/
+ 2002  cmake -Wno-dev /$HOME/Documents/CSCE441/assignments/Homework3/
+ 2003  history > h.txt

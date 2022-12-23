@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall -pedantic -rdynamic CMakeFiles/Assignment3.dir/src/Triangle.cpp.o CMakeFiles/Assignment3.dir/src/main.cpp.o -o Assignment3  /home/ivanr/Documents/CSCE441/glfw/debug/src/libglfw3.a /home/ivanr/Documents/CSCE441/glew/lib/libGLEW.a -lGL -lrt -lm -ldl -lX11 -lpthread 
